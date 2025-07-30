@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "design-patterns"
+name = "design-patterns-rust"
 version = "0.1.0"
